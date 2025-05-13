@@ -1,5 +1,7 @@
 # 🚀 Laboratório: Explorando a AWS com Amazon EC2
 
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-ec2-lab-developer-EDN/refs/heads/main/arquivos/Leonardo_Phoenix_10_Crie_um_banner_em_estilo_3D_cartoon_com_es_2.jpg)
+
 > Curso: Developer | Escola da Nuvem  
 > Autor: Halley Veras  
 > Repositório dedicado à prática com EC2 via Console e CloudShell.
