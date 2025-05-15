@@ -164,4 +164,4 @@ Esse laboratório oferece uma introdução prática ao poder e flexibilidade do 
 
 ---
 
-> ✨ Projeto feito com dedicação por [Halley Veras](https://github.com/halleyveras) durante o curso Developer da [Escola da Nuvem](https://escoladanuvem.org).
+> ✨Guia feito com dedicação por [Halley Veras](https://github.com/halleyveras) durante o curso Developer da [Escola da Nuvem](https://escoladanuvem.org).
