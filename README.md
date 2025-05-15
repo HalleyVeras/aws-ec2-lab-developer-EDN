@@ -157,18 +157,6 @@ Você pode automatizar a criação de múltiplas instâncias com scripts Shell e
 
 ---
 
-## 📁 Estrutura de Diretórios (opcional)
-
-```bash
-📦aws-ec2-lab
- ┣ 📂prints/
- ┃ ┣ 📷console-instance.png
- ┃ ┣ 📷cloudshell-instance.png
- ┣ 📄README.md
- ┗ 📄scripts.sh
-```
-
----
 
 ## 🧠 Conclusão
 
