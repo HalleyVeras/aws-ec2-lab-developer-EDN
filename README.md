@@ -59,6 +59,17 @@ systemctl start httpd
 echo '<html><h1>Olá do seu servidor web!</h1></html>' > /var/www/html/index.html
 ```
 
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-09.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-10.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-12.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-14.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-15.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-16.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-36.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-36_2.png?raw=true)
+
+
+
 ---
 
 ### 3. Acesse seu servidor via navegador
@@ -67,7 +78,9 @@ echo '<html><h1>Olá do seu servidor web!</h1></html>' > /var/www/html/index.htm
 
 🔗 Acesse: `http://[seu-endereço-ip-público]`
 
-🖼️ *Adicione aqui o print do navegador com a página “Olá do seu servidor web!”*
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-38.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-44.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-43.png?raw=true)
 
 ---
 
@@ -76,6 +89,9 @@ echo '<html><h1>Olá do seu servidor web!</h1></html>' > /var/www/html/index.htm
 ### 1. Acesse o CloudShell
 
 🔍 No canto superior direito do console, clique no ícone do terminal (`>_`)
+
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos2/2025-05-13_21-10.png?raw=true)
+
 
 ---
 
@@ -121,7 +137,12 @@ echo "<html><h1>Servidor iniciado via CloudShell</h1></html>" > /var/www/html/in
 aws ec2 describe-instances --query "Reservations[*].Instances[*].PublicIpAddress" --output text
 ```
 
-🖼️ *Adicione aqui o print da página web iniciada via CloudShell*
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos2/2025-05-13_21-11.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos2/2025-05-13_21-11_1.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos2/2025-05-13_21-35.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos2/2025-05-14_13-56.png?raw=true)
+![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos2/2025-05-18_15-18.png?raw=true)
+
 
 ---
 
