@@ -146,31 +146,7 @@ aws ec2 describe-instances --query "Reservations[*].Instances[*].PublicIpAddress
 
 ---
 
-## 🧹 Finalizando Instâncias
 
-> Finalize as instâncias após o uso para evitar custos desnecessários.
-
-Via Console:  
-☑️ Acesse EC2 > Instâncias > Ações > Estado da Instância > Encerrar
-
-Via CLI:  
-🔻 Identifique o ID da instância e execute:
-```bash
-aws ec2 terminate-instances --instance-ids i-xxxxxxxxxxxxxxxxx
-```
-
----
-
-## 📸 Galeria de Capturas
-
-> Adicione abaixo os prints que demonstram suas etapas no laboratório:
-
-- ✅ Instância criada via Console
-- 🌐 Página "Olá do seu servidor web!"
-- 🖥️ CloudShell com comandos executados
-- 🔗 Página iniciada via CloudShell
-
----
 
 ## 💡 Dica Extra
 
