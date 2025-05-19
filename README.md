@@ -60,12 +60,19 @@ echo '<html><h1>Olá do seu servidor web!</h1></html>' > /var/www/html/index.htm
 ```
 
 ![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-09.png?raw=true)
+
 ![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-10.png?raw=true)
+
 ![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-12.png?raw=true)
+
 ![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-14.png?raw=true)
-![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-15.png?raw=true)
+
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-ec2-lab-developer-EDN/refs/heads/main/arquivos/2025-05-13_20-15.png)
+
 ![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-16.png?raw=true)
+
 ![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-36.png?raw=true)
+
 ![1](https://github.com/HalleyVeras/aws-ec2-lab-developer-EDN/blob/main/arquivos/2025-05-13_20-36_2.png?raw=true)
 
 
